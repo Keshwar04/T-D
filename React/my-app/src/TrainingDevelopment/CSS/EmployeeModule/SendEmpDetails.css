@@ -1,0 +1,398 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
+.outer{
+    margin-left: 0px;
+}
+.header{
+    color: blue;
+    margin-left: 460px;
+    margin-top: 30px;
+    font-size: 27px;
+    font-weight: 500;
+}
+
+inputField {
+    margin: 500px;
+}
+chips { 
+	background: red;
+}
+.content_1{
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 26px;
+    font-family: 'Inter';
+    font-style: normal;
+}
+.content_2{
+    margin-bottom: 30px;
+    font-size: 13px;
+}
+.fname{
+    width: 320px;
+}
+.lname, .email, .skill{
+    margin-left: 120px;
+    width: 320px;
+}
+.id{
+    margin-left: 170px;
+    width: 320px;
+    margin-bottom: 30px;
+}
+.mobNo{
+    width: 320px;
+}
+.DOB{
+    margin-left: 168px;
+    font-size: 15px;
+}
+.dobIp{
+    margin-left: 69px;
+    margin-bottom: 30px;
+    width: 146px;
+    height: 29px;
+    background: #FFFFFF;
+    border: 1px solid #9FA6C2;
+    border-radius: 5px;
+    height: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.02em;
+    color: #747C9A;
+}
+.gend{
+    opacity: 0.8;
+    font-size: 15px;
+    margin-left: -5px;
+}
+.gender{
+    margin-left: 40px;
+    
+}
+.femaleGend{
+    margin-left: 10px;
+}
+.prob{
+    margin-left: 16px;
+}
+.desg{
+    margin-left: 1px;
+    height: 30px;
+}
+.jDate{
+    margin-left: 168px;
+    opacity: 0.8;
+    font-size: 15px;
+}
+.jDateIp{
+    margin-left: 34px;
+    margin-bottom: 30px;
+    height: 29px;
+    background: #FFFFFF;
+    border: 1px solid #9FA6C2;
+    border-radius: 5px;
+    height: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.02em;
+    color: #747C9A;
+}
+.probStart{
+    margin-left: 180px;
+    opacity: 0.8;
+    font-size: 15px;
+}
+.probDate{
+    margin-left: 5px;
+    width: 133px;
+    height: 27px;
+    width: 134px;
+    height: 29px;
+    background: #FFFFFF;
+    border: 1px solid #9FA6C2;
+    border-radius: 5px;
+    height: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.02em;
+    color: #747C9A;
+}
+.probEnd{
+    margin-left: 168px;
+    opacity: 0.8;
+    font-size: 15px;
+}
+.probEndDate{
+    margin-left: 4px;
+    width: 142px;
+    height: 27px;
+    width: 146px;
+    height: 29px;
+    background: #FFFFFF;
+    border: 1px solid #9FA6C2;
+    border-radius: 5px;
+    height: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.02em;
+    color: #747C9A;
+}
+.submitButt{
+    margin-top: 60px;
+    margin-left: 480px;
+    width: 110px;
+    height: 30px;
+    border: 0;
+    background-color: #263D93;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 3px;
+}
+.submitBlueButt{
+    border: 0;
+    background-color: #263D93;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 3px;
+    width: 110px;
+    margin-top: 13px;
+    /* margin-left: 10px; */
+    height: 30px;
+}
+.adjust{
+    margin-left: 23px;
+    font-size: 13px;
+    opacity: 0.9;
+    border: 1px solid #9FA6C2;
+    background-color: white;
+    border-radius: 3px;
+    width: 75px;
+    height: 25px;
+}
+.probLToR{
+    margin-left: 20px;
+}
+.location{
+    margin-top: 25px;  
+    width: 248px;
+    height: 30px;
+}
+.skill{
+    margin-left: 117px;
+    width: 257px;
+    height: 38px;
+}
+.ipBoxSize{
+    width: 250px;
+    background: #FFFFFF;
+    border: 1px solid #9FA6C2;
+    border-radius: 5px;
+    height: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.02em;
+    color: #747C9A;
+}
+.color{
+    color: black;
+    font-size: 13.4px;
+    border: 1px solid #ced4da;
+}
+.discardButt{
+    margin-left: 562px;
+    /* padding: 10px; */
+    border: 1px solid blue;
+    color: blue;
+    background: white;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 3px;
+    width: 105px;
+    height: 30px;
+}
+.fileAlign{
+    width: 200px;
+    margin-left: 790px;
+}
+.rmsc .dropdown-heading{
+    position: relative;
+    padding: 0var(--rmsc-p);
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 33px;
+    cursor: default;
+    outline: 0;
+    padding-left: 13px;
+}
+.addEmpDesign{
+    color: black !important;
+    font-weight: 500;
+    margin-top: 300px;
+}
+.newShodowBgColor{
+    box-shadow: 0px 0px 5px 1px rgba(12, 12, 12, 0.03) !important;
+    background: #FFFFFF !important;
+    width: 1070px;
+    margin-top: -295px;
+}
+.topMar{
+    margin-top: 33px;
+    font-size: 10px;
+}
+.greater{
+    margin-left: 867px;
+    opacity: 0.5;
+    cursor: pointer;
+}
+.nBSP{
+    font-weight: 500;
+}
+.formImageAlign{
+    margin-top: -18px;
+    margin-left: 11px;
+    font-size: 11.5px;
+}
+.form-floating >.setHeight{
+    height: 40px !important;
+    width: 320px !important;
+    padding-top: 18px !important;
+}
+.form-floating >.pad_top_adjust{
+    padding-top: 19px !important;
+}
+.pad_top_adjust{
+    padding-top: 80px !important;
+}
+.formFloatAlign{
+    margin-top: -5.7px;
+    margin-left: 11px;
+    font-size: 11.5px;
+}
+.setPadAlign{
+    /* margin-left: 12px; */
+    margin-top: -7px;
+    opacity: 0.7;
+}
+.left12px{
+    margin-left: 12px;
+}
+.rmsc *{
+    box-sizing: border-box;
+    transition: all .2s ease;
+    padding-top: 4px;
+}
+.rmsc .gray {
+    color: black;
+}
+.gap{
+    --bs-gutter-y: 2rem;
+}
+
+.male_left{
+    margin-left: 6px;
+}
+.left_gen{
+    margin-left: 10px;
+}
+.label_gend{
+    margin-top: 12px;
+}
+.inline{
+    border: 1px solid #ced4da;
+    border-radius: 2px;
+    margin-top: -20px;
+    margin-left: 90px;
+    height: 25px;
+    width: 80px;
+    padding-left: 30px;
+    padding-top: 2px;
+}
+.gen_Left{
+    position: absolute;
+    margin-left: 102px;
+    margin-top: -19px;
+}
+.inline2{
+    border: 1px solid #ced4da;
+    border-radius: 2px;
+    margin-top: -25px;
+    margin-left: 210px;
+    height: 25px;
+    width: 80px;
+    padding-left: 26.8px;
+    padding-top: 2px;
+}
+.gen_Left2{
+    position: absolute;
+    margin-left: 219.8px;
+    margin-top: -19px;
+}
+.width_adjust{
+    width: 320px !important;
+}
+.width_adjust_skill{
+    width: 345px;
+}
+.formFloatAlignForSkill{
+    margin-top: -15.7px;
+    margin-left: 12px;
+    font-size: 11.5px;
+    opacity: 0.7;
+}
+.empName_Error{
+    font-size: 10px;
+    color: red;
+    margin-top: -30px;
+}
+.lastName_error{
+    margin-left: 263px;
+}
+.empId_error{
+    margin-left: 264px;
+}
+.both_Error{
+    font-size: 10px;
+    color: red;
+    margin-top: -30px;
+}
+.email_Error{
+    margin-left: 240px;
+}
+.flexible{
+    display: flex;
+}
+
+.multi-border .rmsc .dropdown-container{
+border: 1px solid red !important;
+border-radius: 0.25rem !important;
+height: 40px;
+}
+
+.multi-border-default .rmsc .dropdown-container{
+    height: 40px;
+}
+.text-color{
+    color: red;
+    font-size: 11px;
+}

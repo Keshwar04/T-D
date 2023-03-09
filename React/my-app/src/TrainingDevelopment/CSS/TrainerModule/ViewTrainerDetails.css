@@ -1,0 +1,53 @@
+.implocation{
+    position: relative;
+    left: 480px;
+}
+.impSDate{
+    position: relative;
+    left: 786px;
+}
+.descTopAlign{
+    margin-top: 37px;
+}
+.statusTrainAlign{
+    position: relative;
+    left: 150px;
+}
+.remarksAlign{
+    margin-top: 35px;
+}
+.marTopAlign{
+    margin-top: 17px;
+}
+.topMarAlign{
+    margin-top: 30px;
+}
+.durTimeAlign{
+    position: relative;
+    top:52px;
+}
+.statusAlignment{
+    position: relative;
+    left:237px;   
+}
+.sTimeEtime{
+    margin-left: 20px;
+}
+.trainEAlign{
+    margin-left: 48px;
+}
+.locEAlign{
+    margin-left: 7px;
+}
+.batchEAlign{
+    margin-left: -5px;
+}
+.topicEAlign{
+    margin-left: 58px;
+}
+.nodeEAlign{
+    margin-left: 2px;
+}
+.whiteHeightAdjust{
+    height: 100px !important;
+}

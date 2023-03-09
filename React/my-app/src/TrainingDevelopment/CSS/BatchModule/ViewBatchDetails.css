@@ -1,0 +1,175 @@
+.absolute{
+    position: absolute;
+    top: 80px;
+    left: 190px;
+    font-weight: 500;
+}
+.editId{
+    margin-top: -20px;
+    margin-left: 1020px;
+}
+.editBatchId{
+    margin-top: -20px;
+}
+.minusTopMargin{
+    margin-top: -3px;
+}
+.whiteBlurBg{
+    height: 230px !important;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 5px 1px rgb(12 12 12 / 3%);
+    border: 5px;
+    position: absolute;
+    top: 107px;
+    left: 195px;
+    width: 83%;
+}
+.ledtAtt{
+    margin-left: 900px !important;
+}
+.ledtAtts{
+    margin-left: 970px !important;
+}
+.batchAlign{
+    margin-top: -7px;
+    margin-left: 2px;
+}
+.leftMoves{
+    margin-left: 936px;
+}
+.backgroundWhite{   
+    background: #FFFFFF;
+    box-shadow: 0px 0px 5px 1px rgba(12, 12, 12, 0.03);
+    border-radius: 5px;
+    width: 1080px;
+    height: 190px;
+    position: relative;
+    top: 5px;
+}
+.batchDetails{
+    font-size: 14.3px;
+}
+.flex{
+    display: flex;
+    
+    position: relative;
+    top: 20px;
+    opacity: 0.6;
+    font-size: 13.3px;
+}
+.flex2{
+    display: flex;
+    
+    position: relative;
+    top: 25px;
+    font-size: 13.3px;
+    font-weight: 500;
+}
+.top{
+    position: relative;
+    top: 50px;
+}
+.detailsAlign{
+    position: relative;
+    top: 55px;
+}
+.shadowWhite{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 5px 1px rgba(12, 12, 12, 0.03);
+    border-radius: 5px;
+    width: 1080px;
+    height: 190px;
+    position: relative;
+    top: 40px;
+}
+.trainLToR{
+    position: relative;
+    left: 16px;
+}
+.batchLToR{
+    position: relative;
+    left: 206px;
+}
+.leadLToR{
+    position: relative;
+    left: 456px;
+}
+.sDateLToR{
+    position: relative;
+    left: 726px;
+}
+.leadLToRMap{
+    position: relative;
+    left: 494px;
+}
+.sDateLToRMap{
+    position: relative;
+    left: 730px;
+}
+.batchLToRMap{
+    position: relative;
+    left: 248px;
+}
+.TimeLToR{
+    position: relative;
+    left: 238px;
+}
+.resourcesLToR{
+    position: relative;
+    left: 510px;
+}
+.sTAndEt{
+    position: relative;
+    left: 217px;   
+}
+.resourcesLToRMap{
+    position: relative;
+    left: 440px;  
+}
+.statusLToRMap{
+    position: relative;
+    left: 778px;  
+}
+.marginTopWhite{
+    height: 325px;
+}
+.posTopAlign{
+    margin-top: 25px;
+}
+.batchLAlign{
+    margin-left: 17px;
+}
+.eBatchAlign{
+    margin-left: -14px;
+}
+.eTrainAlign{
+   margin-left: 2px;   
+}
+.eTopicAlign{
+    margin-left: 77px;
+}
+.eTrainerAlign{
+    margin-left: 56px;
+}
+.eLocationAlign{
+    margin-left: 32px;
+}
+.locAlign{
+    margin-left: -13px;
+}
+.startDateAlign{
+    margin-left: 92px;
+}
+.eSDateAlign{
+    margin-left: 710px;
+}
+.eTimeSlot{
+    margin-left: 25px;
+    margin-top: 6px;
+}
+.tmeSlot{
+    margin-left: 10px;
+}
+.durationTime{
+    margin-top: 6px;
+}

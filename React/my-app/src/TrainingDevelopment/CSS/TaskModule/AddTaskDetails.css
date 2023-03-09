@@ -1,0 +1,49 @@
+.leftTask{
+    margin-left: 985px;
+}
+.leftTasks{
+    margin-left: 1020px;
+}
+.disSubAlign{
+    margin-top: 100px;
+    margin-left: 15px;
+}
+.marginAlignment{
+    margin-top: -18px;
+    font-size: 10px;
+    color: red;
+    opacity: 1 !important;
+}
+.leftassignedAlign{
+    margin-left: 253px;
+}
+.leftTaskAlign{
+    margin-left: 247px !important;
+}
+.leftTaskTitle{
+    margin-left: 14px;
+}
+.leftDescAlign{
+    margin-left: 254px;
+}
+.leftStartDateAlign{
+    margin-left: 258px;
+}
+.leftScheduleAlign{
+    margin-left: 262px;
+}
+.endDateAlignment{
+    margin-top: -58px;
+}
+.task_floatAlign{
+    margin-left: 14px;
+    margin-top: -7px;
+    opacity: 0.7;
+    font-size: 12px;
+}
+.batch_floatAlign{
+    margin-left: 15px;
+    margin-top: -7px;
+    opacity: 0.7;
+    font-size: 12px;
+}

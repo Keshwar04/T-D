@@ -1,0 +1,48 @@
+.adjustRadButOuter{
+    margin-top: -22px;
+}
+.trainAttend{
+    font-weight: 500;
+    font-size: 14px;
+    color: #263D93;
+    position: relative;
+    left: 50px;
+}
+.firstRadio{
+    position: relative;
+    left: 50px;
+}
+.leftTrainer{
+    margin-left: 947px;
+    font-size: 10.5px;
+}
+.leftTrainers{
+    margin-left: 1043px;
+    font-size: 10.5px;
+}
+.firstRadioLabel{
+    color: #747C9A;
+    font-weight: 400;
+    font-size: 13px;
+    position: relative;
+    top: -1px;
+    left: 57px;
+}
+.secondRadio{
+    position: relative;
+    left: 67px;
+}
+.secondRadioLabel{
+    color: #747C9A;
+    font-weight: 400;
+    font-size: 13px;
+    position: relative;
+    top: -1px;
+    left: 71px;
+}
+.paddingTopALign{
+    margin-top: -3px;
+}
+.labeBatchALign{
+    margin-top: 1.5px;
+}

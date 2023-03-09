@@ -1,0 +1,30 @@
+.present{
+    margin-top: -20px;
+    margin-left: 15px;
+    font-size: 11px;
+}
+.radioButt{
+    margin-top: -16px;
+    margin-left: 60px;
+}
+.absent{
+    margin-top: -20px;
+    margin-left: 14px;
+    font-size: 11px;
+    /* background-color: #f3f1f1;; */
+}
+.fullAdjust{
+    margin-top: 3px;
+}
+.opacity{
+    opacity: 0.6;
+    font-size: 12px;
+}
+.topMinus{
+    margin-top: -20px;
+    font-size: 13px;
+}
+.bgAshColor{
+    background-color: #F8F9FF;
+    min-height: 40px !important;
+}

@@ -1,0 +1,170 @@
+.flex-container{
+    position: absolute;
+    top: 100px;
+    left:188px;
+    width: 1080px;
+    display: flex;
+    justify-content: space-between;
+}
+.widthSquare{
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 5px 1px rgba(12, 12, 12, 0.03);
+    height: 19vh;
+    width: 39vh;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 7px;
+}
+.blue_color{
+    color: #0984E3;
+    background: rgba(9, 132, 227, 0.1);
+    padding:3.7px;
+    width: 30px;
+    height: 25px;
+}
+.green_color{
+    color: #12A04E;
+    background:  rgba(30, 180, 93, 0.1);
+    padding:3.7px;
+    width: 30px;
+    height: 25px;
+}
+.orange_color{
+    color: #E9930A;
+    background: rgba(233, 147, 10, 0.1);
+    padding:3.7px;
+    width: 30px;
+    height: 25px;
+}
+.red_color{
+    color: #E74C3C;
+    background-color: rgba(231, 76, 60, 0.1);
+    padding:3.7px;
+    width: 30px;
+    height: 25px;
+}
+.flex-container2{
+    position: absolute;
+    top: 238px;
+    left:188px;
+    width: 1080px;
+    display: flex;   
+}
+.firstSquare{
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 5px 1px rgba(12, 12, 12, 0.03);
+    height: 60vh;
+    width: 102vh;
+    overflow: scroll;
+}
+.firstSquare::-webkit-scrollbar{
+    width: 0;
+}
+.ashColor::-webkit-scrollbar{
+    width: 0;
+}
+.secondSquare{
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 5px 1px rgba(12, 12, 12, 0.03);
+    height: 60vh;
+    width: 70vh;
+    margin-left: 20px;
+}
+.totalCount{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.textCount{
+    font-size: 11.5px;
+    color: #747C9A;
+    margin-top: 5px;
+}
+.BatchAtt{
+    font-size: 11.5px;
+    color: #747C9A;
+    margin-top: 12px;
+    margin-left: 20px;
+}
+.tableHead{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 11px;
+    letter-spacing: 0.03em;
+    color:#747C9A;
+    opacity: 0.9;
+}
+.left_margin_move{
+    margin-left: 35px;
+    width: 580px;
+}
+.totalNoOfColor{
+    color: #263D93;
+}
+.presentColor{
+    height: 23px;
+    width: 45px;
+    background-color: #EBFAF1;
+    color: #2ECC71;
+    border-radius: 5px;
+    border: 0;
+    padding-left: 18px;
+    padding-top: 2px;
+}
+.absentColor{
+    height: 23px;
+    width: 45px;
+    background-color: #FDEEEC;
+    color: #E74C3C;
+    border-radius: 5px;
+    border: 0;
+    padding-left: 18px;
+    padding-top: 2px;
+}
+.marLeft{
+    padding-left: 40px !important;
+}
+.ashColor{
+    background-color: #F8F9FF;
+    box-shadow: 0px 0px 5px 1px rgba(12, 12, 12, 0.03);
+    height: 85%;
+    margin-top: 10px;
+    padding-top: 13px;
+    margin-left: 20px;
+    width: 91%;
+    overflow: scroll;
+}
+.whiteBgColor{
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 5px 1px rgba(12, 12, 12, 0.03);
+    margin-left: 10px;
+    width: 94.5%;
+    margin-bottom: 10px;
+}
+.fontAlterSize{
+    font-size: 11.8px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+}
+.fontAlterTimeSize{
+    color: black;
+    font-weight: 400;
+}
+.fontAlterSize2{
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+}
+.fontAlterColor{
+    color: #747C9A;
+    font-size: 11px;
+    letter-spacing: 0.02em;
+}
+.center {
+    width: 100%;
+    height: 56vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

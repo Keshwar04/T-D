@@ -1,0 +1,106 @@
+.minusMargin{
+    position: absolute;
+    top: 90px;
+    left: 200px;
+}
+.minusMar{
+    margin-top: -10px;
+    font-size: 10.5px;
+}
+.leftBatMar{
+    margin-left: 910px;
+}
+.batchHead{
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: -17px;
+    margin-left: -5px;
+}
+.whiteBackground{
+ background: #FFFFFF;
+ box-shadow: 0px 0px 5px 1px rgba(12, 12, 12, 0.03);  
+ width: 1060px;
+ height: 280px;
+ position: relative;
+ top: 5px;
+}
+.secondWhiteBackground{
+ background: #FFFFFF;
+ box-shadow: 0px 0px 5px 1px rgba(12, 12, 12, 0.03);   
+ width: 1060px;
+ height: auto;
+ position: relative;
+ top: 25px;
+}
+.editBatch{
+   font-weight: 500;
+   font-size: 13.3px;
+}
+.blurtext{
+    opacity: 0.5;
+    font-size: 13.3px;
+}
+.ipStartTime{
+    position: relative;
+    left:731px;
+    top:-38px;
+}
+.minusTime{
+    position: relative;
+    top: -11px;
+    width: 1078px;
+}
+.leftMove{
+    margin-left: 10px;
+    width: 335px;
+}
+.form-floating>.form-select {
+    padding-top: 12px !important;
+    padding-bottom: 0.625rem !important;
+}
+.form-select{
+    font-size: 12px !important;
+}
+
+.statusFloat{
+    margin-top: -8px;
+    font-size: 11.3px;
+}
+.adjustAlign{
+    margin-left: 24px;
+}
+.sDateAlign{
+    margin-top: -16px;
+    font-size: 9.7px;
+    opacity: 0.6;
+}
+.tAlign{
+    font-size: 11.5px;
+    margin-top: 16px;
+    margin-left: 27px;
+}
+.fontSizes{
+    font-size: 11px;
+    padding-top: 17px!important;
+}
+.form-control{
+    display: block;
+    width: 100%;
+    height: 40px;
+    padding-top: 9px !important;
+    padding-left: 10px;
+    font-size: 13.3px !important;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.sTimeAdjust{
+    margin-top: -7px;
+    font-size: 11.3px;
+}
